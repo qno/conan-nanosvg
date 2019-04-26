@@ -1,2 +1,5 @@
 # conan-nanosvg
-A conan recipe for NanoSVG.
+A [conan](https://conan.io/) recipe for [ NanoSVG](https://github.com/memononen/nanosvg).
+***
+
+***
