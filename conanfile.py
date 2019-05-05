@@ -3,10 +3,11 @@ import os
 
 class NanoSVGConan(ConanFile):
     name = "NanoSVG"
-    version = "master"
+    version = "latest"
     license = "Zlib"
     author = "Mikko Mononen"
     url = "https://github.com/qno/conan-nanosvg"
+    homepage = "https://github.com/memononen/nanosvg"
     description = "Simple stupid SVG parser."
 
     no_copy_source = True
